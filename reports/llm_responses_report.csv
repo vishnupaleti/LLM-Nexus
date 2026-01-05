@@ -1,7 +1,11 @@
 Model,Prompt,Response,Timestamp
-ChatGPT,"hello
-","Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************WGoA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}",2026-01-05 14:58:53
-Gemini,"hello
-",Hello! How can I help you today?,2026-01-05 14:58:53
-LLaMA,"hello
-",Hello. How can I assist you today?,2026-01-05 14:58:53
+ChatGPT,"hi!Remember my name Bhanu
+","Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",2026-01-05 15:21:30
+Gemini,"hi!Remember my name Bhanu
+","Hi Bhanu!
+
+It's nice to meet you. I'm an AI, and while I don't ""remember"" personal details like names from one conversation to the next, I will certainly use your name in this current chat!
+
+How can I help you today, Bhanu?",2026-01-05 15:21:30
+LLaMA,"hi!Remember my name Bhanu
+",Hello Bhanu.  How are you today?,2026-01-05 15:21:30
